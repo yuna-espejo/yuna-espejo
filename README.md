@@ -1,22 +1,62 @@
-# ¡Hola! Soy Yuna.
+# 👋 Hi, I'm Yuna
 
-Soy estudiante de ASIX, interesada por el desarrollo web y la analítica de datos. Me encanta aprender nuevas tecnologías y mejorar constantemente mis habilidades.
+💻 Aspiring Software Engineer  
+📊 Interested in data, systems and building real-world solutions  
 
-## Tecnologías y Herramientas:
-- **Lenguajes:**  
-  ![C#](https://img.shields.io/badge/C%23-9B4D96?style=flat&logo=csharp&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  
-- **Herramientas:**  
-  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+---
 
-## Proyectos:
-- **[Diabetes Survivor](https://github.com/yunalapruna/diabetessurvivor)** 
-- **[Pokemon Battle](https://github.com/yunalapruna/pokemon-battle)**
+## 🌐 Portfolio
 
-## Certificaciones:
-- **Microsoft Word 2019**
-- **Nivel A2 de Inglés**
+<a href="https://yunaespejo.com" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-## Contacto:
-- **Correo electrónico:** [y.espejo.santana@gmail.com](mailto:y.espejo.santana@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/yuna-espejo-santana](https://www.linkedin.com/in/yuna-espejo-santana)
+---
+
+## 👩‍💻 About Me
+
+I'm currently studying ASIX and working as a Junior Consultant.
+
+I enjoy building projects that combine software, problem solving and real-world applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-9B4D96?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🚀 Projects
+
+### 🩺 Diabetes Survivor  
+https://github.com/yunalapruna/diabetessurvivor  
+Health-related project focused on improving daily habits (C#)
+
+### 🎮 Pokemon Battle  
+https://github.com/yunalapruna/pokemon-battle  
+Game logic and mechanics implementation  
+
+---
+
+## 🎯 Goals
+
+🏎️ Become a Software Engineer  
+📈 Keep improving every day  
+🧠 Build real-world projects  
+
+---
+
+## 🤝 Contact
+
+📧 y.espejo.santana@gmail.com  
+💼 https://www.linkedin.com/in/yuna-espejo-santana
