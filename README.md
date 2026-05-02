@@ -1,7 +1,4 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Hey+there!+I'm+Yuna+Espejo+👋;Junior+Dev+%26+ASIX+Student+🚀;Turning+ideas+into+real-world+code+💡)](https://git.io/typing-svg)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yuna-espejo.yuna-espejo&color=7c3aed&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuna-espejo-santana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yunaespejo.com)
