@@ -1,7 +1,5 @@
 <div align="center">
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yuna-espejo.yuna-espejo&color=7c3aed&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuna-espejo-santana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yunaespejo.com)
+
 
 </div>
 
