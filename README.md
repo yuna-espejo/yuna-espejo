@@ -57,7 +57,7 @@ class Yuna:
 <div align="center">
 
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuna-espejo&bg_color=0d1117&color=7c3aed&line=7c3aed&point=c9d1d9&hide_border=true&area=true&area_color=7c3aed"/>
+<img src="https://streak-stats.demolab.com?user=yuna-espejo&theme=transparent&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"/>
 
 ---
 
