@@ -57,7 +57,7 @@ class Yuna:
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=yuna-espejo&theme=transparent&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=yuna-espejo&theme=tokyonight&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=7c3aed"/>
 
 ---
 
