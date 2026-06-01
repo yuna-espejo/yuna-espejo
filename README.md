@@ -56,8 +56,11 @@ class Yuna:
 
 <div align="center">
 
-
 <img src="https://streak-stats.demolab.com?user=yuna-espejo&theme=tokyonight&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=7c3aed"/>
+
+<img src="https://ghchart.rshah.org/7c3aed/yuna-espejo" alt="GitHub Contributions"/>
+
+</div>
 
 ---
 
