@@ -17,10 +17,18 @@ class Yuna:
     def currently(self):
         return {
             "learning"  : ["Cloud fundamentals (AZ-900)", "REST APIs", "Algorithms & DS"],
-            "building"  : ["JobRadar", "Atlas voice assistant", "F1 telemetry tools"],
+            "building"  : ["Meraki", "NetClone", "F1 telemetry tools"],
             "working_on": "SAP integration projects for pharma clients"
         }
 ```
+
+---
+
+## 🔭 Currently Deep-Diving Into
+
+- **JWT auth flows** — stateless auth, password hashing, middleware design
+- **Relational DB design** — N:M relationships, junction tables, schema migrations
+- **API architecture** — multi-connector patterns for extensible data ingestion
 
 ---
 
@@ -67,12 +75,12 @@ class Yuna:
 
 <div align="center">
 
-[![JobRadar](https://github-readme-stats.vercel.app/api/pin/?username=yuna-espejo&repo=JobRadar&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/yuna-espejo/JobRadar)
+[![Meraki](https://github-readme-stats.vercel.app/api/pin/?username=yuna-espejo&repo=Meraki&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/yuna-espejo/Meraki)
 [![daily-challenges](https://github-readme-stats.vercel.app/api/pin/?username=yuna-espejo&repo=daily-challenges&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/yuna-espejo/daily-challenges)
 
 </div>
 
-**🔍 JobRadar** — Multi-user job scraper using Apify + Claude API for tech stack extraction. FastAPI + PostgreSQL + React + Docker.
+**🧭 Meraki** — Career intelligence tool for developers. Analyzes real job market data (Infojobs API + Gemini AI) to map the gap between your current stack and your target role, with curated learning resources to close it. FastAPI + PostgreSQL + JWT auth + React. *Currently building auth & user profiles.*
 
 **🧠 Daily Challenges** — One Python challenge per day. Algorithms, mini projects, and utilities — auto-updating README via script.
 
@@ -85,7 +93,7 @@ class Yuna:
 | 🎓 | Start Computer Science Engineering @ UOC | 🔥 September |
 | ☁️ | AZ-900 Azure Fundamentals certification | 📖 In progress |
 | 🔌 | Build and deploy REST APIs in production | 🔄 In progress |
-| 🐍 | Ship JobRadar v1 with live demo | 🔄 In progress |
+| 🧭 | Ship Meraki v1 with live demo | 🔄 In progress |
 | 🏎️ | Build an F1 telemetry analysis project | 📋 Planned |
 | 🌐 | First open source contribution | 📋 Planned |
 | 📈 | IC20 promotion at Timestamp Group | 🔥 November |
